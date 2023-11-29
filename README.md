@@ -1,4 +1,5 @@
-# This repo provides various cryptographic functions and utilities
+
+# Cryptographic Algorithms
 
 ## Overview
 
@@ -12,6 +13,10 @@
 - Caesar, Vigenere, Substitution and One-Time Pad ciphers
 - Encoding and decoding messages
 - Hashing messages
+
+## Requirements
+
+- Some functions  require SageMath to be installed. SageMath can be downloaded [here](https://www.sagemath.org/).
 
 ## Functions
 
@@ -43,7 +48,7 @@ These functions are used for various purposes, such as timing function execution
 For the utility functions, simply import the desired function and call it with the required arguments. For example, to compute the GCD of two numbers:
 
 ``` python
-from utility_functions import gcd
+from crypto_algorithms import gcd
 
 result = gcd(28, 14)
 print(result)
