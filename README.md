@@ -1,7 +1,7 @@
 
 # Cryptographic Algorithms
 
-<img src="res/crypto.gif" alt="Crypto Algorithms" width="500">
+<img src="res/crypto.gif" alt="Crypto Algorithms" width="650">
 
 ## Overview
 
