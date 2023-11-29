@@ -1,6 +1,8 @@
 
 # Cryptographic Algorithms
 
+<img src="res/crypto.gif" alt="Crypto Algorithms" width="800">
+
 ## Overview
 
 - Timing the execution of functions
